@@ -1,4 +1,4 @@
-# FruitKafkaFlow
+# _fruit_kafka_
 
 Um pipeline simples end-to-end usando Kafka, Python e Kafka UI para simular vendas de frutas, detectar compras suspeitas e visualizar dados em tempo real.
 
