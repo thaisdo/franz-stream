@@ -1,0 +1,11 @@
+[project]
+name = "kafka-pipeline"
+version = "0.1.0"
+description = "Exemplo simples de pipeline Kafka com Python"
+authors = [
+    { name = "Thainara Oliveira", email = "thainarasdo.23@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "kafka-python>=2.0"
+]
